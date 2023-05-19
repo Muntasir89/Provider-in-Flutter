@@ -1,4 +1,4 @@
-# provider_app
+# Provider App
 
 # Benefits of Using Providers in Flutter
 
